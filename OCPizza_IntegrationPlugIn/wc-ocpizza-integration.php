@@ -1,0 +1,1 @@
+// Fichier d'intégration WooCommerce
